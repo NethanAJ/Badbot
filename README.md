@@ -1,0 +1,2 @@
+# Badbot
+nope
